@@ -1,4 +1,4 @@
-# MIS_practicas 
+# Prácticas de Medio interestelar (2023-2024)
 
 ## Testing integration with Binder/Colab
 
